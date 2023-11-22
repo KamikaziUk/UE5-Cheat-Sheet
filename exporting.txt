@@ -1,0 +1,4 @@
+Exporting from blender:
+------------------------
+Export Rig: Geometry: Face Smoothing, Armature: Add leaf bones off, Bake Animation: Off
+Export Animations: NLA Strips off, All Actions off

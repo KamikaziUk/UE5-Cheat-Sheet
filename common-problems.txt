@@ -1,0 +1,6 @@
+## common problems
+- Navigation not generating: Try restarting editor
+- Strange behavior in the editor: Try restarting editor 
+- Line trace not finding component: Ensure the component/actor has a root component on blueprint 
+- No parent or correct type on actor/component: Ensure it has root component set on blueprint
+- Crashing (Uninialised memory, null ptrs etc)
