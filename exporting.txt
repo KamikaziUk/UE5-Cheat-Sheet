@@ -2,3 +2,7 @@ Exporting from blender:
 ------------------------
 Export Rig: Geometry: Face Smoothing, Armature: Add leaf bones off, Bake Animation: Off
 Export Animations: NLA Strips off, All Actions off
+
+No variable showing up in details inspector
+---------------------------------------------
+If you can’t edit or see the property in the details inspector. Ensure you have added the UPROPERTY to the header file variable
